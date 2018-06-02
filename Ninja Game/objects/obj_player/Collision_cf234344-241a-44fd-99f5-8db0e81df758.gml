@@ -1,0 +1,1 @@
+global.pHealth -= 1;
