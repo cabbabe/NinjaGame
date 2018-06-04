@@ -210,6 +210,25 @@
             }
         },
         {
+            "Key": "2273c0eb-6929-4f1f-92dc-c88c7a43a41f",
+            "Value": {
+                "id": "688c47ca-47ec-495a-b9b5-afe86966ace7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_enemy_fly\/obj_enemy_fly.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "22ab4ef4-aa91-4633-9ec9-37e56e813d81",
             "Value": {
                 "id": "bc9d0d32-2b0e-47c3-bc53-df8ddb0613bc",
@@ -320,6 +339,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_roomTransition\/spr_roomTransition.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "32bad96a-3a3d-4be6-96bd-cb9ff8945cb3",
+            "Value": {
+                "id": "7ab42e2f-3c28-4fed-8d9a-dbccab73e828",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_enemy_fly\/spr_enemy_fly.yy",
                 "resourceType": "GMSprite"
             }
         },

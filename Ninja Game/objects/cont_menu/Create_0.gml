@@ -82,6 +82,8 @@ repeat(array_length){
 	i++;
 }
 
+inputting = false;
+
 
 
 
